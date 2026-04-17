@@ -354,7 +354,7 @@ Realistic next steps that would strengthen the project without breaking scope:
 
 *(Add screenshots here after running the project locally.)*
 
-- `docs/screenshots/landing.png` — Landing page
+-  ![Landing Page](docs/screenshots/landing.png) — Landing page
 - `docs/screenshots/explore.png` — Explore page with map + filters
 - `docs/screenshots/voice.png` — Voice search modal
 - `docs/screenshots/compare.png` — Compare drawer
