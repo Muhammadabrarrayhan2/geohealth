@@ -14,6 +14,10 @@
 
 </div>
 
+## Live Demo
+- Frontend: https://geohealth-phi.vercel.app
+- Backend API Docs: https://geohealth.onrender.com/docs
+
 ---
 
 ## 1. Project Overview
