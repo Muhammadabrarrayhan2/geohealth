@@ -355,9 +355,9 @@ Realistic next steps that would strengthen the project without breaking scope:
 *(Add screenshots here after running the project locally.)*
 
 -  ![Landing Page](docs/screenshots/landing.png.png) — Landing page
-- ![Explore Page](docs/screenshots/explore.png) Explore page with map + filters
+-  ![Explore Page](docs/screenshots/explore.png) Explore page with map + filters
 -  ![Voice Search](docs/screenshots/voice.png) — Voice search modal
--  ![Compare Drawer](docs/screenshots/compare.png)  — Compare drawer
+-  ![Compare Drawer](docs/screenshots/Compare.png)  — Compare drawer
 - ![Hospital Detail](docs/screenshots/hospital-detail.jpeg) — Hospital detail page
 - ![Insights Dashboard](docs/screenshots/insight.jpeg) — Civic insights dashboard
 
