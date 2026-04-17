@@ -365,7 +365,7 @@ Realistic next steps that would strengthen the project without breaking scope:
 
 ## 20. Author
 
-**Rayhan**
+**Muhammad Abrar Rayhan**
 Information Systems · Telkom University Jakarta
 Student capstone project · 2026
 
